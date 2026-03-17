@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0496-next-greater-element-i](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +20,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

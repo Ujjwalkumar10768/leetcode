@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Ujjwalkumar10768/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
